@@ -41,9 +41,13 @@ Open `index.html` in a browser, or serve this folder with a static web server. N
 
 ## 🌟 Live Demo
 
-The portfolio does not have a published live URL yet. Open `index.html` locally, or replace this note with the portfolio URL after deployment.
+The portfolio is published at [i012-jpg.github.io/ishant-portfolio](https://i012-jpg.github.io/ishant-portfolio/).
 
-The featured [Neon Highway live demo](https://i012-jpg.github.io/neon-highway-game/) is available online. Its [source repository](https://github.com/i012-jpg/neon-highway-game) is also linked from the portfolio. Other project cards are concept showcases.
+Featured projects:
+
+- [ZapCart live demo](https://i012-jpg.github.io/zapcart-demo/)
+- [Neon Highway live demo](https://i012-jpg.github.io/neon-highway-game/)
+- [Neon Highway source repository](https://github.com/i012-jpg/neon-highway-game)
 
 ## 📸 Preview
 
