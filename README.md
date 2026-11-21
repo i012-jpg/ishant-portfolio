@@ -45,6 +45,7 @@ The portfolio is published at [i012-jpg.github.io/ishant-portfolio](https://i012
 
 Featured projects:
 
+- Project links are updated with the latest live demos.
 - [ZapCart live demo](https://i012-jpg.github.io/zapcart-demo/)
 - [Neon Highway live demo](https://io12-jpg.github.io/neon-highway-game/)
 - [Neon Highway source repository](https://github.com/i012-jpg/neon-highway-game)
